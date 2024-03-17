@@ -1,6 +1,9 @@
 Leaf-plant disease detection
-demo video link
+
+demo video link:
+
 "C:\Users\dvlha\Downloads\WhatsApp Video 2024-03-17 at 10.04.10_315f4d58 (1).mp4"
+
 Team details
 Team no VH118
 Diguvacheruvupalli Bhavana -9921004174@klu.ac.in
